@@ -17,3 +17,6 @@ body {
     .font-sizeclass {
       font-size: 300%;
       }
+    div {
+    border: double;
+    }
