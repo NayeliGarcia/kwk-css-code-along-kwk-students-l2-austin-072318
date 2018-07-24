@@ -7,3 +7,10 @@ body {
       background-color: gray;
       color: blue
     }
+    .anExampleClass {
+      font-size: 300%;
+      background-color: pink;
+      font-family: courier;
+      letter-spacing: 5px;
+      transition: rotate(-30)deg;
+    }
